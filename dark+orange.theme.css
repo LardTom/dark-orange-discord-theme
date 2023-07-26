@@ -1,8 +1,7 @@
 /**
-  * @name Dark&Orange
-  * @author @tom_henniger
-  * @version D&Ov1
-  * @description Highly customized dark and purple theme for Discord
+ credit to "DevEvil#8745"
+  
+  for personal use only!
 
 */
 
@@ -17,8 +16,8 @@
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
-  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-hue-rotate: 555deg;
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
-  --darkplus-emoji-picker-color: 210deg;
+  --darkplus-emoji-picker-color: 355deg;
 }
